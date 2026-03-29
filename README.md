@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1Qe411n79C
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的校园资料分享平台，分为管理后台和用户网页端，可以给管理员和普通用户角色使用，包括学生管理模块、资料分享模块、资料分类模块、举报反馈模块和系统基础模块，项目编号T059。
 
